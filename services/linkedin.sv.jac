@@ -58,9 +58,9 @@ obj Message {
 def:pub get_profile() -> Profile {
     return Profile(
         id="1",
-        name="Alex Johnson",
+        name="James Bond",
         headline="Senior Software Engineer at TechCorp | Full-Stack Developer | Open Source Contributor",
-        avatar="https://api.dicebear.com/9.x/avataaars/svg?seed=Alex",
+        avatar="https://api.dicebear.com/9.x/avataaars/svg?seed=James",
         banner="https://images.unsplash.com/photo-1557683316-973673baf926?w=800&h=200&fit=crop",
         location="San Francisco Bay Area",
         connections=847,
